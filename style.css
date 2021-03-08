@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.name-highlight{
+    color: rgb(248, 9, 188);
+}
+h1{
+    font-size: 50px;
+}
+.hello-div{
+    width: 38%;
+    float: left;
+    
+    
+
+}
+.hello-div img{
+    width: 95%;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(tomato,red);
+    color: white;
+    padding: 10px;
+
+}
+h2{
+    font-size: 35px;
+}
+h1{
+    font-size: 47px;
+}
+.intro-area{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position:left;
+    height: 500px;
+}
+section{
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+.biography-div{
+    width: 40%;
+    float: left;
+    
+}
+.biography-div img{
+    width: 75%;
+}
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.work-area h2{
+    text-align: center;
+}
+.work-area{
+    height: 400px;
+    margin-left: 50px;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    
+}
+.latest-work{
+    width:27%;
+    float: left;
+
+
+}
+.latest-work img{
+    width: 100%;
+}
+.client-area{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 500px;
+
+
+}
+.client-div h2{
+    text-align: center;
+}
+.client-div h3{
+    text-align: center;
+}
+.client-div h6{
+    text-align: center;
+}
+.client-div p{
+    text-align: center;
+}
+.email-div{
+    width: 30%;
+    height: 15%;
+    background-color: rgb(252, 11, 160);
+   margin: auto;
+   text-align: center;
+   padding: 23px;
+   color: white;
+    
+}
+footer p{
+    text-align: center;
+}
